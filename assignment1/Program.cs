@@ -39,12 +39,15 @@
                 u.UserName = numbers[1];
                 if (numbers[0].Equals("Student"))
                 {
+
                 }
                 else if (numbers[0].Equals("Gamer"))
                 {
+
                 }
                 else if (numbers[0].Equals("Worker"))
                 {
+
                 }
             }
 
